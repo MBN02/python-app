@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: mkbn/python-app
   pullPolicy: IfNotPresent
-  tag: d5d0a9
+  tag: a0fe93
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
