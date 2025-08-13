@@ -13,7 +13,7 @@ app = Flask(__name__)
 def details():
     return jsonify({
         'time': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-        'hostname': socket.gethostname()
+        'hostname': socket.gethostname(),
         'owner': "mkbn-tech"
     })
 
