@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: MBN02/python-app
 spec:
   type: service
-  owner: development
+  owner: group:development
   lifecycle: experimental
