@@ -5,6 +5,7 @@ metadata:
   description: Simple python app
   annotations:
     github.com/project-slug: MBN02/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: group:development

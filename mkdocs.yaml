@@ -1,0 +1,11 @@
+site_name: 'Python App'
+site_description: 'Main documentation for the python app'
+repo_url: https://github.com/MBN02/python-app
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
