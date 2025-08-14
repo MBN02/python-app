@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app
+  description: Simple python app
+  annotations:
+    github.com/project-slug: MBN02/python-app
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental
